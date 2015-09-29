@@ -1,9 +1,9 @@
 {
-	"name": "iignatov/lightopenid",
+	"name": "dimka3210/lightopenid",
 	"type": "library",
 	"description": "Lightweight PHP5 library for easy OpenID authentication.",
 	"keywords": ["openid", "authentication", "security"],
-	"homepage": "https://github.com/iignatov/LightOpenID",
+	"homepage": "https://github.com/dimka3210/LightOpenID",
 	"license": "MIT",
 	"authors": [
 		{
